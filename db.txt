@@ -1,0 +1,28 @@
+Bonjour Julie,
+
+Tout va bien à Manchester?
+
+J'ai fait une nouvelle RT et vendredi, j'ai encore eu la mauvaise
+surprise de voir  U6 très variable comme l'autre fois.
+
+Donc ce matin, j'ai fait comme pour les urines  j'ai cherché la
+stabilité des mirna (8 en tout) dans les cellules, je viens de finir à
+l'instant  les qPCR et les élus sont exactement les mêmes que pour les
+urines: mir-423 et mir-93 (voir le graphique en pièce attachée et à mon
+avis, c'est génial de retrouver les mêmes références partout, on voit
+aussi que U6 est le plus mauvais pour normaliser).
+Il existe un site web qui fait les normalisations, je n'ai plus à faire
+des calculs, je mets les valeurs brutes des Ct et un clic (qques
+secondes), j'ai tous les résultats et les graphiques:
+http://www.leonxie.com/referencegene.php#
+
+Je te conseille de normaliser les résultats de mir-24 et mir-34 par
+mir-423 ou éventuellement les 2 mir-423 et mir-93 (les Ct sont dans le
+fichier ref_julie)
+
+Pour UUO 49, la PCR pour mir-423 est en cours de route, je t'enverrai le
+fichier excel demain matin.
+
+Bon courage,
+
+Eric

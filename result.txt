@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+	<entry created="1993-04-01" dataset="Swiss-Prot" modified="2011-12-14" version="123">
+		<accession>Q00005</accession>
+		<accession>A6NEJ2</accession>
+		<accession>A8K102</accession>
+		<accession>B3KPD0</accession>
+		<accession>B7Z2F2</accession>
+		<accession>B7Z304</accession>
+		<accession>D3DQF7</accession>
+		<accession>D3DQF8</accession>
+		<name>2ABB_HUMAN</name>
+		<protein>
+			<recommendedName>
+				<fullName>Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B beta isoform</fullName>
+			</recommendedName>
+			<alternativeName>
+				<fullName>PP2A subunit B isoform B55-beta</fullName>
+			</alternativeName>
+			<alternativeName>
+				<fullName>PP2A subunit B isoform PR55-beta</fullName>
+			</alternativeName>
+			<alternativeName>
+				<fullName>PP2A subunit B isoform R2-beta</fullName>
+			</alternativeName>
+			<alternativeName>
+				<fullName>PP2A subunit B isoform beta</fullName>
+			</alternativeName>
+		</protein>
+		<gene>
+			<name type="primary">PPP2R2B</name>
+		</gene>
+		<organism>
+			<name type="scientific">Homo sapiens</name>
+			<name type="common">Human</name>
+			<dbReference id="9606" key="1" type="NCBI Taxonomy"/>
+			<lineage>
+				<taxon>Eukaryota</taxon>
+				<taxon>Metazoa</taxon>
+				<taxon>Chordata</taxon>
+				<taxon>Craniata</taxon>
+				<taxon>Vertebrata</taxon>
+				<taxon>Euteleostomi</taxon>
+				<taxon>Mammalia</taxon>
+				<taxon>Eutheria</taxon>
+				<taxon>Euarchontoglires</taxon>
+				<taxon>Primates</taxon>
+				<taxon>Haplorrhini</taxon>
+				<taxon>Catarrhini</taxon>
+				<taxon>Hominidae</taxon>
+				<taxon>Homo</taxon>
+			</lineage>
+		</organism>
+		<reference key="2">
+			<citation date="1991" first="3589" last="3597" name="Biochemistry" type="journal article" volume="30">
+				<title>Structure of the 55-kDa regulatory subunit of protein phosphatase 2A: evidence for a neuronal-specific isoform.</title>
+				<authorList>
+					<person name="Mayer R.E."/>
+					<person name="Hendrix P."/>
+					<person name="Cron P."/>
+					<person name="Matthies R."/>
+					<person name="Stone S.R."/>
+					<person name="Goris J."/>
+					<person name="Merlevede W."/>
+					<person name="Hofsteenge J."/>
+					<person name="Hemmings B.A."/>
+				</authorList>
+				<dbReference id="91198016" key="3" type="MEDLINE"/>
+				<dbReference id="1849734" key="4" type="PubMed"/>
+				<dbReference id="10.1021/bi00229a001" key="5" type="DOI"/>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+			<source>
+				<tissue>Fetal brain</tissue>
+			</source>
+		</reference>
+		<reference key="6">
+			<citation date="2004" first="40" last="45" name="Nat. Genet." type="journal article" volume="36">
+				<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+				<authorList>
+					<person name="Ota T."/>
+					<person name="Suzuki Y."/>
+					<person name="Nishikawa T."/>
+					<person name="Otsuki T."/>
+					<person name="Sugiyama T."/>
+					<person name="Irie R."/>
+					<person name="Wakamatsu A."/>
+					<person name="Hayashi K."/>
+					<person name="Sato H."/>
+					<person name="Nagai K."/>
+					<person name="Kimura K."/>
+					<person name="Makita H."/>
+					<person name="Sekine M."/>
+					<person name="Obayashi M."/>
+					<person name="Nishi T."/>
+					<person name="Shibahara T."/>
+					<person name="Tanaka T."/>
+					<person name="Ishii S."/>
+					<person name="Yamamoto J."/>
+					<person name="Saito K."/>
+					<person name="Kawai Y."/>
+					<person name="Isono Y."/>
+					<person name="Nakamura Y."/>
+					<person name="Nagahari K."/>
+					<person name="Murakami K."/>
+					<person name="Yasuda T."/>
+					<person name="Iwayanagi T."/>
+					<person name="Wagatsuma M."/>
+					<person name="Shiratori A."/>
+					<person name="Sudo H."/>
+					<person name="Hosoiri T."/>
+					<person name="Kaku Y."/>
+					<person name="Kodaira H."/>
+					<person name="Kondo H."/>
+					<person name="Sugawara M."/>
+					<person name="Takahashi M."/>
+					<person name="Kanda K."/>
+					<person name="Yokoi T."/>
+					<person name="Furuya T."/>
+					<person name="Kikkawa E."/>
+					<person name="Omura Y."/>
+					<person name="Abe K."/>
+					<person name="Kamihara K."/>
+					<person name="Katsuta N."/>
+					<person name="Sato K."/>
+					<person name="Tanikawa M."/>
+					<person name="Yamazaki M."/>
+					<person name="Ninomiya K."/>
+					<person name="Ishibashi T."/>
+					<person name="Yamashita H."/>
+					<person name="Murakawa K."/>
+					<person name="Fujimori K."/>
+					<person name="Tanai H."/>
+					<person name="Kimata M."/>
+					<person name="Watanabe M."/>
+					<person name="Hiraoka S."/>
+					<person name="Chiba Y."/>
+					<person name="Ishida S."/>
+					<person name="Ono Y."/>
+					<person name="Takiguchi S."/>
+					<person name="Watanabe S."/>
+					<person name="Yosida M."/>
+					<person name="Hotuta T."/>
+					<person name="Kusano J."/>
+					<person name="Kanehori K."/>
+					<person name="Takahashi-Fujii A."/>
+					<person name="Hara H."/>
+					<person name="Tanase T.-O."/>
+					<person name="Nomura Y."/>
+					<person name="Togiya S."/>
+					<person name="Komai F."/>
+					<person name="Hara R."/>
+					<person name="Takeuchi K."/>
+					<person name="Arita M."/>
+					<person name="Imose N."/>
+					<person name="Musashino K."/>
+					<person name="Yuuki H."/>
+					<person name="Oshima A."/>
+					<person name="Sasaki N."/>
+					<person name="Aotsuka S."/>
+					<person name="Yoshikawa Y."/>
+					<person name="Matsunawa H."/>
+					<person name="Ichihara T."/>
+					<person name="Shiohata N."/>
+					<person name="Sano S."/>
+					<person name="Moriya S."/>
+					<person name="Momiyama H."/>
+					<person name="Satoh N."/>
+					<person name="Takami S."/>
+					<person name="Terashima Y."/>
+					<person name="Suzuki O."/>
+					<person name="Nakagawa S."/>
+					<person name="Senoh A."/>
+					<person name="Mizoguchi H."/>
+					<person name="Goto Y."/>
+					<person name="Shimizu F."/>
+					<person name="Wakebe H."/>
+					<person name="Hishigaki H."/>
+					<person name="Watanabe T."/>
+					<person name="Sugiyama A."/>
+					<person name="Takemoto M."/>
+					<person name="Kawakami B."/>
+					<person name="Yamazaki M."/>
+					<person name="Watanabe K."/>
+					<person name="Kumagai A."/>
+					<person name="Itakura S."/>
+					<person name="Fukuzumi Y."/>
+					<person name="Fujimori Y."/>
+					<person name="Komiyama M."/>
+					<person name="Tashiro H."/>
+					<person name="Tanigami A."/>
+					<person name="Fujiwara T."/>
+					<person name="Ono T."/>
+					<person name="Yamada K."/>
+					<person name="Fujii Y."/>
+					<person name="Ozaki K."/>
+					<person name="Hirao M."/>
+					<person name="Ohmori Y."/>
+					<person name="Kawabata A."/>
+					<person name="Hikiji T."/>
+					<person name="Kobatake N."/>
+					<person name="Inagaki H."/>
+					<person name="Ikema Y."/>
+					<person name="Okamoto S."/>
+					<person name="Okitani R."/>
+					<person name="Kawakami T."/>
+					<person name="Noguchi S."/>
+					<person name="Itoh T."/>
+					<person name="Shigeta K."/>
+					<person name="Senba T."/>
+					<person name="Matsumura K."/>
+					<person name="Nakajima Y."/>
+					<person name="Mizuno T."/>
+					<person name="Morinaga M."/>
+					<person name="Sasaki M."/>
+					<person name="Togashi T."/>
+					<person name="Oyama M."/>
+					<person name="Hata H."/>
+					<person name="Watanabe M."/>
+					<person name="Komatsu T."/>
+					<person name="Mizushima-Sugano J."/>
+					<person name="Satoh T."/>
+					<person name="Shirai Y."/>
+					<person name="Takahashi Y."/>
+					<person name="Nakagawa K."/>
+					<person name="Okumura K."/>
+					<person name="Nagase T."/>
+					<person name="Nomura N."/>
+					<person name="Kikuchi H."/>
+					<person name="Masuho Y."/>
+					<person name="Yamashita R."/>
+					<person name="Nakai K."/>
+					<person name="Yada T."/>
+					<person name="Nakamura Y."/>
+					<person name="Ohara O."/>
+					<person name="Isogai T."/>
+					<person name="Sugano S."/>
+				</authorList>
+				<dbReference id="14702039" key="7" type="PubMed"/>
+				<dbReference id="10.1038/ng1285" key="8" type="DOI"/>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1; 3 AND 4)</scope>
+			<source>
+				<tissue>Brain</tissue>
+				<tissue>Corpus callosum</tissue>
+			</source>
+		</reference>
+		<reference key="9">
+			<citation date="2004" first="268" last="274" name="Nature" type="journal article" volume="431">
+				<title>The DNA sequence and comparative analysis of human chromosome 5.</title>
+				<authorList>
+					<person name="Schmutz J."/>
+					<person name="Martin J."/>
+					<person name="Terry A."/>
+					<person name="Couronne O."/>
+					<person name="Grimwood J."/>
+					<person name="Lowry S."/>
+					<person name="Gordon L.A."/>
+					<person name="Scott D."/>
+					<person name="Xie G."/>
+					<person name="Huang W."/>
+					<person name="Hellsten U."/>
+					<person name="Tran-Gyamfi M."/>
+					<person name="She X."/>
+					<person name="Prabhakar S."/>
+					<person name="Aerts A."/>
+					<person name="Altherr M."/>
+					<person name="Bajorek E."/>
+					<person name="Black S."/>
+					<person name="Branscomb E."/>
+					<person name="Caoile C."/>
+					<person name="Challacombe J.F."/>
+					<person name="Chan Y.M."/>
+					<person name="Denys M."/>
+					<person name="Detter J.C."/>
+					<person name="Escobar J."/>
+					<person name="Flowers D."/>
+					<person name="Fotopulos D."/>
+					<person name="Glavina T."/>
+					<person name="Gomez M."/>
+					<person name="Gonzales E."/>
+					<person name="Goodstein D."/>
+					<person name="Grigoriev I."/>
+					<person name="Groza M."/>
+					<person name="Hammon N."/>
+					<person name="Hawkins T."/>
+					<person name="Haydu L."/>
+					<person name="Israni S."/>
+					<person name="Jett J."/>
+					<person name="Kadner K."/>
+					<person name="Kimball H."/>
+					<person name="Kobayashi A."/>
+					<person name="Lopez F."/>
+					<person name="Lou Y."/>
+					<person name="Martinez D."/>
+					<person name="Medina C."/>
+					<person name="Morgan J."/>
+					<person name="Nandkeshwar R."/>
+					<person name="Noonan J.P."/>
+					<person name="Pitluck S."/>
+					<person name="Pollard M."/>
+					<person name="Predki P."/>
+					<person name="Priest J."/>
+					<person name="Ramirez L."/>
+					<person name="Retterer J."/>
+					<person name="Rodriguez A."/>
+					<person name="Rogers S."/>
+					<person name="Salamov A."/>
+					<person name="Salazar A."/>
+					<person name="Thayer N."/>
+					<person name="Tice H."/>
+					<person name="Tsai M."/>
+					<person name="Ustaszewska A."/>
+					<person name="Vo N."/>
+					<person name="Wheeler J."/>
+					<person name="Wu K."/>
+					<person name="Yang J."/>
+					<person name="Dickson M."/>
+					<person name="Cheng J.-F."/>
+					<person name="Eichler E.E."/>
+					<person name="Olsen A."/>
+					<person name="Pennacchio L.A."/>
+					<person name="Rokhsar D.S."/>
+					<person name="Richardson P."/>
+					<person name="Lucas S.M."/>
+					<person name="Myers R.M."/>
+					<person name="Rubin E.M."/>
+				</authorList>
+				<dbReference id="15372022" key="10" type="PubMed"/>
+				<dbReference id="10.1038/nature02919" key="11" type="DOI"/>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+		</reference>
+		<reference key="12">
+			<citation date="2005-09" db="EMBL/GenBank/DDBJ databases" type="submission">
+				<authorList>
+					<person name="Mural R.J."/>
+					<person name="Istrail S."/>
+					<person name="Sutton G.G."/>
+					<person name="Florea L."/>
+					<person name="Halpern A.L."/>
+					<person name="Mobarry C.M."/>
+					<person name="Lippert R."/>
+					<person name="Walenz B."/>
+					<person name="Shatkay H."/>
+					<person name="Dew I."/>
+					<person name="Miller J.R."/>
+					<person name="Flanigan M.J."/>
+					<person name="Edwards N.J."/>
+					<person name="Bolanos R."/>
+					<person name="Fasulo D."/>
+					<person name="Halldorsson B.V."/>
+					<person name="Hannenhalli S."/>
+					<person name="Turner R."/>
+					<person name="Yooseph S."/>
+					<person name="Lu F."/>
+					<person name="Nusskern D.R."/>
+					<person name="Shue B.C."/>
+					<person name="Zheng X.H."/>
+					<person name="Zhong F."/>
+					<person name="Delcher A.L."/>
+					<person name="Huson D.H."/>
+					<person name="Kravitz S.A."/>
+					<person name="Mouchard L."/>
+					<person name="Reinert K."/>
+					<person name="Remington K.A."/>
+					<person name="Clark A.G."/>
+					<person name="Waterman M.S."/>
+					<person name="Eichler E.E."/>
+					<person name="Adams M.D."/>
+					<person name="Hunkapiller M.W."/>
+					<person name="Myers E.W."/>
+					<person name="Venter J.C."/>
+				</authorList>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+		</reference>
+		<reference key="13">
+			<citation date="2004" first="2121" last="2127" name="Genome Res." type="journal article" volume="14">
+				<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+				<authorList>
+					<consortium name="The MGC Project Team"/>
+				</authorList>
+				<dbReference id="15489334" key="14" type="PubMed"/>
+				<dbReference id="10.1101/gr.2596504" key="15" type="DOI"/>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 5)</scope>
+			<source>
+				<tissue>Brain</tissue>
+			</source>
+		</reference>
+		<reference key="16">
+			<citation date="2001-08" db="EMBL/GenBank/DDBJ databases" type="submission">
+				<authorList>
+					<person name="Strausberg R.L."/>
+				</authorList>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-197 (ISOFORM 2)</scope>
+		</reference>
+		<reference key="17">
+			<citation date="1999" first="391" last="392" name="Nat. Genet." type="journal article" volume="23">
+				<title>Expansion of a novel CAG trinucleotide repeat in the 5' region of PPP2R2B is associated with SCA12.</title>
+				<authorList>
+					<person name="Holmes S.E."/>
+					<person name="O'Hearn E.E."/>
+					<person name="McInnis M.G."/>
+					<person name="Gorelick-Feldman D.A."/>
+					<person name="Kleiderlein J.J."/>
+					<person name="Callahan C."/>
+					<person name="Kwak N.G."/>
+					<person name="Ingersoll-Ashworth R.G."/>
+					<person name="Sherr M."/>
+					<person name="Sumner A.J."/>
+					<person name="Sharp A.H."/>
+					<person name="Ananth U."/>
+					<person name="Seltzer W.K."/>
+					<person name="Boss M.A."/>
+					<person name="Vieria-Saecker A.-M."/>
+					<person name="Epplen J.T."/>
+					<person name="Riess O."/>
+					<person name="Ross C.A."/>
+					<person name="Margolis R.L."/>
+				</authorList>
+				<dbReference id="20047763" key="18" type="MEDLINE"/>
+				<dbReference id="10581021" key="19" type="PubMed"/>
+				<dbReference id="10.1038/70493" key="20" type="DOI"/>
+			</citation>
+			<scope>INVOLVEMENT IN SCA12</scope>
+		</reference>
+		<comment type="function">
+			<text>The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment. Within the PP2A holoenzyme complex, isoform 2 is required to promote proapoptotic activity (By similarity). Isoform 2 regulates neuronal survival through the mitochondrial fission and fusion balance (By similarity).</text>
+		</comment>
+		<comment type="subunit">
+			<text>PP2A consists of a common heterodimeric core enzyme, composed of a 36 kDa catalytic subunit (subunit C) and a 65 kDa constant regulatory subunit (PR65 or subunit A), that associates with a variety of regulatory subunits. Proteins that associate with the core dimer include three families of regulatory subunits B (the R2/B/PR55/B55, R3/B''/PR72/PR130/PR59 and R5/B'/B56 families), the 48 kDa variable regulatory subunit, viral proteins, and cell signaling molecules.</text>
+		</comment>
+		<comment type="interaction">
+			<interactant intactId="EBI-1052159"/>
+			<interactant intactId="EBI-717097">
+				<id>O15530</id>
+				<label>PDPK1</label>
+			</interactant>
+			<organismsDiffer>false</organismsDiffer>
+			<experiments>8</experiments>
+		</comment>
+		<comment type="interaction">
+			<interactant intactId="EBI-1052159"/>
+			<interactant intactId="EBI-302388">
+				<id>P30153</id>
+				<label>PPP2R1A</label>
+			</interactant>
+			<organismsDiffer>false</organismsDiffer>
+			<experiments>5</experiments>
+		</comment>
+		<comment type="interaction">
+			<interactant intactId="EBI-1052159"/>
+			<interactant intactId="EBI-1775921">
+				<id>P23443</id>
+				<label>RPS6KB1</label>
+			</interactant>
+			<organismsDiffer>false</organismsDiffer>
+			<experiments>2</experiments>
+		</comment>
+		<comment type="subcellular location">
+			<molecule>Isoform 1</molecule>
+			<subcellularLocation>
+				<location status="by similarity">Cytoplasm</location>
+			</subcellularLocation>
+			<subcellularLocation>
+				<location status="by similarity">Cytoplasm</location>
+				<location status="by similarity">Cytoskeleton</location>
+			</subcellularLocation>
+			<subcellularLocation>
+				<location status="by similarity">Membrane</location>
+			</subcellularLocation>
+		</comment>
+		<comment type="subcellular location">
+			<molecule>Isoform 2</molecule>
+			<subcellularLocation>
+				<location status="by similarity">Cytoplasm</location>
+			</subcellularLocation>
+			<subcellularLocation>
+				<location status="by similarity">Mitochondrion</location>
+			</subcellularLocation>
+			<subcellularLocation>
+				<location status="by similarity">Mitochondrion outer membrane</location>
+			</subcellularLocation>
+			<text>Under basal conditions, localizes to both cytosolic and mitochondrial compartments. Relocalizes from the cytosolic to the mitochondrial compartment during apoptosis. Its targeting to the outer mitochondrial membrane (OMM) involves an association with import receptors of the TOM complex and is required to promote proapoptotic activity (By similarity).</text>
+		</comment>
+		<comment type="alternative products">
+			<event type="alternative splicing"/>
+			<isoform>
+				<id>Q00005-1</id>
+				<name>1</name>
+				<name>Bbeta</name>
+				<name>Bbeta1</name>
+				<sequence type="displayed"/>
+			</isoform>
+			<isoform>
+				<id>Q00005-2</id>
+				<name>2</name>
+				<name>Bbeta2</name>
+				<sequence ref="VSP_037976" type="described"/>
+				<note>Contains a cryptic mitochondrial transit peptide at positions 1-26 (By similarity).</note>
+			</isoform>
+			<isoform>
+				<id>Q00005-3</id>
+				<name>3</name>
+				<sequence ref="VSP_037977" type="described"/>
+			</isoform>
+			<isoform>
+				<id>Q00005-4</id>
+				<name>4</name>
+				<sequence ref="VSP_037978" type="described"/>
+			</isoform>
+			<isoform>
+				<id>Q00005-5</id>
+				<name>5</name>
+				<sequence ref="VSP_037979" type="described"/>
+			</isoform>
+		</comment>
+		<comment type="tissue specificity">
+			<text>Brain.</text>
+		</comment>
+		<comment type="domain">
+			<text>The N-terminal 26 residues of isoform 2 constitute a cryptic mitochondrial matrix import signal with critical basic and hydrophobic residues, that is necessary and sufficient for targeting the PP2A holoenzyme to the outer mitochondrial membrane (OMM) and does not affect holoenzyme formation or catalytic activity (By similarity).</text>
+		</comment>
+		<comment type="domain">
+			<text>The last WD repeat of isoform 2 constitutes a mitochondrial stop-transfer domain that confers resistance to the unfolding step process required for import and therefore prevents PPP2R2B matrix translocation and signal sequence cleavage (By similarity).</text>
+		</comment>
+		<comment type="disease">
+			<text evidence="1">Defects in PPP2R2B are the cause of spinocerebellar ataxia type 12 (SCA12) [MIM:604326]. Spinocerebellar ataxia is a clinically and genetically heterogeneous group of cerebellar disorders. Patients show progressive incoordination of gait and often poor coordination of hands, speech and eye movements, due to degeneration of the cerebellum with variable involvement of the brainstem and spinal cord. SCA12 is an autosomal dominant cerebellar ataxia (ADCA).</text>
+		</comment>
+		<comment type="similarity">
+			<text>Belongs to the phosphatase 2A regulatory subunit B family.</text>
+		</comment>
+		<comment type="similarity">
+			<text>Contains 7 WD repeats.</text>
+		</comment>
+		<comment type="sequence caution">
+			<conflict type="erroneous initiation">
+				<sequence id="AAH31790" resource="EMBL-CDS" version="1"/>
+			</conflict>
+		</comment>
+		<comment type="sequence caution">
+			<conflict type="erroneous termination">
+				<sequence id="BAG51642" resource="EMBL-CDS" version="1"/>
+			</conflict>
+			<location>
+				<position position="116"/>
+			</location>
+			<text>Translated as Lys.</text>
+		</comment>
+		<comment name="GeneReviews" type="online information">
+			<link uri="http://www.ncbi.nlm.nih.gov/sites/GeneTests/lab/gene/PPP2R2B"/>
+		</comment>
+		<dbReference id="M64930" key="21" type="EMBL">
+			<property type="protein sequence ID" value="AAA36493.1"/>
+			<property type="molecule type" value="mRNA"/>
+		</dbReference>
+		<dbReference id="AK056192" key="22" type="EMBL">
+			<property type="protein sequence ID" value="BAG51642.1"/>
+			<property type="status" value="ALT_SEQ"/>
+			<property type="molecule type" value="mRNA"/>
+		</dbReference>
+		<dbReference id="AK289717" key="23" type="EMBL">
+			<property type="protein sequence ID" value="BAF82406.1"/>
+			<property type="molecule type" value="mRNA"/>
+		</dbReference>
+		<dbReference id="AK294659" key="24" type="EMBL">
+			<property type="protein sequence ID" value="BAH11838.1"/>
+			<property type="molecule type" value="mRNA"/>
+		</dbReference>
+		<dbReference id="AK295347" key="25" type="EMBL">
+			<property type="protein sequence ID" value="BAH12040.1"/>
+			<property type="molecule type" value="mRNA"/>
+		</dbReference>
+		<dbReference id="AC008728" key="26" type="EMBL">
+			<property type="status" value="NOT_ANNOTATED_CDS"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="AC009186" key="27" type="EMBL">
+			<property type="status" value="NOT_ANNOTATED_CDS"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="AC010251" key="28" type="EMBL">
+			<property type="status" value="NOT_ANNOTATED_CDS"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="AC011386" key="29" type="EMBL">
+			<property type="status" value="NOT_ANNOTATED_CDS"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="AC011357" key="30" type="EMBL">
+			<property type="status" value="NOT_ANNOTATED_CDS"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="AC091919" key="31" type="EMBL">
+			<property type="status" value="NOT_ANNOTATED_CDS"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="AC091924" key="32" type="EMBL">
+			<property type="status" value="NOT_ANNOTATED_CDS"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="CH471062" key="33" type="EMBL">
+			<property type="protein sequence ID" value="EAW61829.1"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="CH471062" key="34" type="EMBL">
+			<property type="protein sequence ID" value="EAW61831.1"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="CH471062" key="35" type="EMBL">
+			<property type="protein sequence ID" value="EAW61832.1"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="CH471062" key="36" type="EMBL">
+			<property type="protein sequence ID" value="EAW61834.1"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="CH471062" key="37" type="EMBL">
+			<property type="protein sequence ID" value="EAW61835.1"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="BC031790" key="38" type="EMBL">
+			<property type="protein sequence ID" value="AAH31790.1"/>
+			<property type="status" value="ALT_INIT"/>
+			<property type="molecule type" value="mRNA"/>
+		</dbReference>
+		<dbReference id="BI490027" key="39" type="EMBL">
+			<property type="status" value="NOT_ANNOTATED_CDS"/>
+			<property type="molecule type" value="mRNA"/>
+		</dbReference>
+		<dbReference id="IPI00020850" key="40" type="IPI"/>
+		<dbReference id="IPI00376972" key="41" type="IPI"/>
+		<dbReference id="IPI00376973" key="42" type="IPI"/>
+		<dbReference id="IPI00944548" key="43" type="IPI"/>
+		<dbReference id="IPI00944557" key="44" type="IPI"/>
+		<dbReference id="B38351" key="45" type="PIR">
+			<property type="entry name" value="B38351"/>
+		</dbReference>
+		<dbReference id="NP_001120853.1" key="46" type="RefSeq">
+			<property type="nucleotide sequence ID" value="NM_001127381.1"/>
+		</dbReference>
+		<dbReference id="NP_004567.1" key="47" type="RefSeq">
+			<property type="nucleotide sequence ID" value="NM_004576.2"/>
+		</dbReference>
+		<dbReference id="NP_858060.1" key="48" type="RefSeq">
+			<property type="nucleotide sequence ID" value="NM_181674.2"/>
+		</dbReference>
+		<dbReference id="NP_858061.1" key="49" type="RefSeq">
+			<property type="nucleotide sequence ID" value="NM_181675.2"/>
+		</dbReference>
+		<dbReference id="NP_858062.1" key="50" type="RefSeq">
+			<property type="nucleotide sequence ID" value="NM_181676.2"/>
+		</dbReference>
+		<dbReference id="NP_858063.1" key="51" type="RefSeq">
+			<property type="nucleotide sequence ID" value="NM_181677.2"/>
+		</dbReference>
+		<dbReference id="NP_858064.1" key="52" type="RefSeq">
+			<property type="nucleotide sequence ID" value="NM_181678.2"/>
+		</dbReference>
+		<dbReference id="Hs.655213" key="53" type="UniGene"/>
+		<dbReference id="Q00005" key="54" type="ProteinModelPortal"/>
+		<dbReference id="Q00005" key="55" type="SMR">
+			<property type="residue range" value="23-442"/>
+		</dbReference>
+		<dbReference id="Q00005" key="56" type="IntAct">
+			<property type="interactions" value="171"/>
+		</dbReference>
+		<dbReference id="Q00005" key="57" type="STRING"/>
+		<dbReference id="Q00005" key="58" type="PhosphoSite"/>
+		<dbReference id="231446" key="59" type="DMDM"/>
+		<dbReference id="Q00005" key="60" type="PRIDE"/>
+		<dbReference id="ENST00000336640" key="61" type="Ensembl">
+			<property type="protein sequence ID" value="ENSP00000336591"/>
+			<property type="gene ID" value="ENSG00000156475"/>
+		</dbReference>
+		<dbReference id="ENST00000356826" key="62" type="Ensembl">
+			<property type="protein sequence ID" value="ENSP00000349283"/>
+			<property type="gene ID" value="ENSG00000156475"/>
+		</dbReference>
+		<dbReference id="ENST00000394409" key="63" type="Ensembl">
+			<property type="protein sequence ID" value="ENSP00000377931"/>
+			<property type="gene ID" value="ENSG00000156475"/>
+		</dbReference>
+		<dbReference id="ENST00000394410" key="64" type="Ensembl">
+			<property type="protein sequence ID" value="ENSP00000377932"/>
+			<property type="gene ID" value="ENSG00000156475"/>
+		</dbReference>
+		<dbReference id="ENST00000394411" key="65" type="Ensembl">
+			<property type="protein sequence ID" value="ENSP00000377933"/>
+			<property type="gene ID" value="ENSG00000156475"/>
+		</dbReference>
+		<dbReference id="ENST00000394413" key="66" type="Ensembl">
+			<property type="protein sequence ID" value="ENSP00000377935"/>
+			<property type="gene ID" value="ENSG00000156475"/>
+		</dbReference>
+		<dbReference id="ENST00000394414" key="67" type="Ensembl">
+			<property type="protein sequence ID" value="ENSP00000377936"/>
+			<property type="gene ID" value="ENSG00000156475"/>
+		</dbReference>
+		<dbReference id="ENST00000453001" key="68" type="Ensembl">
+			<property type="protein sequence ID" value="ENSP00000398779"/>
+			<property type="gene ID" value="ENSG00000156475"/>
+		</dbReference>
+		<dbReference id="5521" key="69" type="GeneID"/>
+		<dbReference id="hsa:5521" key="70" type="KEGG"/>
+		<dbReference id="uc003loe.1" key="71" type="UCSC">
+			<property type="organism name" value="human"/>
+		</dbReference>
+		<dbReference id="5521" key="72" type="CTD"/>
+		<dbReference id="GC05M141115" key="73" type="GeneCards"/>
+		<dbReference id="HIX0021292" key="74" type="H-InvDB"/>
+		<dbReference id="HGNC:9305" key="75" type="HGNC">
+			<property type="gene designation" value="PPP2R2B"/>
+		</dbReference>
+		<dbReference id="HPA038118" key="76" type="HPA"/>
+		<dbReference id="604325" key="77" type="MIM">
+			<property type="type" value="gene"/>
+		</dbReference>
+		<dbReference id="604326" key="78" type="MIM">
+			<property type="type" value="phenotype"/>
+		</dbReference>
+		<dbReference id="NX_Q00005" key="79" type="neXtProt"/>
+		<dbReference id="98762" key="80" type="Orphanet">
+			<property type="disease" value="Spinocerebellar ataxia type 12"/>
+		</dbReference>
+		<dbReference id="prNOG08663" key="81" type="eggNOG"/>
+		<dbReference id="ENSGT00390000006311" key="82" type="GeneTree"/>
+		<dbReference id="HBG000012" key="83" type="HOVERGEN"/>
+		<dbReference id="Q00005" key="84" type="InParanoid"/>
+		<dbReference id="VFQREQE" key="85" type="OMA"/>
+		<dbReference id="EOG4M0F1K" key="86" type="OrthoDB"/>
+		<dbReference id="Q00005" key="87" type="PhylomeDB"/>
+		<dbReference id="21356" key="88" type="NextBio"/>
+		<dbReference id="Q00005" key="89" type="ArrayExpress"/>
+		<dbReference id="Q00005" key="90" type="Bgee"/>
+		<dbReference id="HS_PPP2R2B" key="91" type="CleanEx"/>
+		<dbReference id="Q00005" key="92" type="Genevestigator"/>
+		<dbReference id="ENSG00000156475" key="93" type="GermOnline">
+			<property type="organism name" value="Homo sapiens"/>
+		</dbReference>
+		<dbReference id="GO:0005856" key="94" type="GO">
+			<property type="term" value="C:cytoskeleton"/>
+			<property type="evidence" value="IEA:UniProtKB-SubCell"/>
+		</dbReference>
+		<dbReference id="GO:0005741" key="95" type="GO">
+			<property type="term" value="C:mitochondrial outer membrane"/>
+			<property type="evidence" value="ISS:UniProtKB"/>
+		</dbReference>
+		<dbReference id="GO:0000159" key="96" type="GO">
+			<property type="term" value="C:protein phosphatase type 2A complex"/>
+			<property type="evidence" value="IEA:InterPro"/>
+		</dbReference>
+		<dbReference id="GO:0005515" key="97" type="GO">
+			<property type="term" value="F:protein binding"/>
+			<property type="evidence" value="IPI:IntAct"/>
+		</dbReference>
+		<dbReference id="GO:0008601" key="98" type="GO">
+			<property type="term" value="F:protein phosphatase type 2A regulator activity"/>
+			<property type="evidence" value="TAS:ProtInc"/>
+		</dbReference>
+		<dbReference id="GO:0006915" key="99" type="GO">
+			<property type="term" value="P:apoptotic process"/>
+			<property type="evidence" value="IEA:UniProtKB-KW"/>
+		</dbReference>
+		<dbReference id="GO:0007165" key="100" type="GO">
+			<property type="term" value="P:signal transduction"/>
+			<property type="evidence" value="IEA:InterPro"/>
+		</dbReference>
+		<dbReference id="IPR000009" key="101" type="InterPro">
+			<property type="entry name" value="PP2A_PR55"/>
+		</dbReference>
+		<dbReference id="IPR018067" key="102" type="InterPro">
+			<property type="entry name" value="PP2A_PR55_CS"/>
+		</dbReference>
+		<dbReference id="IPR015943" key="103" type="InterPro">
+			<property type="entry name" value="WD40/YVTN_repeat-like_dom"/>
+		</dbReference>
+		<dbReference id="IPR001680" key="104" type="InterPro">
+			<property type="entry name" value="WD40_repeat"/>
+		</dbReference>
+		<dbReference id="IPR011046" key="105" type="InterPro">
+			<property type="entry name" value="WD40_repeat-like_dom"/>
+		</dbReference>
+		<dbReference id="IPR019775" key="106" type="InterPro">
+			<property type="entry name" value="WD40_repeat_CS"/>
+		</dbReference>
+		<dbReference id="IPR019781" key="107" type="InterPro">
+			<property type="entry name" value="WD40_repeat_subgr"/>
+		</dbReference>
+		<dbReference id="G3DSA:2.130.10.10" key="108" type="Gene3D">
+			<property type="entry name" value="WD40/YVTN_repeat-like"/>
+			<property type="match status" value="3"/>
+		</dbReference>
+		<dbReference id="K04354" key="109" type="KO"/>
+		<dbReference id="PTHR11871" key="110" type="PANTHER">
+			<property type="entry name" value="Pp2A_PR55"/>
+			<property type="match status" value="1"/>
+		</dbReference>
+		<dbReference id="PF00400" key="111" type="Pfam">
+			<property type="entry name" value="WD40"/>
+			<property type="match status" value="2"/>
+		</dbReference>
+		<dbReference id="PIRSF037309" key="112" type="PIRSF">
+			<property type="entry name" value="PP2A_PR55"/>
+			<property type="match status" value="1"/>
+		</dbReference>
+		<dbReference id="PR00600" key="113" type="PRINTS">
+			<property type="entry name" value="PP2APR55"/>
+		</dbReference>
+		<dbReference id="SM00320" key="114" type="SMART">
+			<property type="entry name" value="WD40"/>
+			<property type="match status" value="6"/>
+		</dbReference>
+		<dbReference id="SSF50978" key="115" type="SUPFAM">
+			<property type="entry name" value="WD40_like"/>
+			<property type="match status" value="1"/>
+		</dbReference>
+		<dbReference id="PS01024" key="116" type="PROSITE">
+			<property type="entry name" value="PR55_1"/>
+			<property type="match status" value="1"/>
+		</dbReference>
+		<dbReference id="PS01025" key="117" type="PROSITE">
+			<property type="entry name" value="PR55_2"/>
+			<property type="match status" value="1"/>
+		</dbReference>
+		<dbReference id="PS00678" key="118" type="PROSITE">
+			<property type="entry name" value="WD_REPEATS_1"/>
+			<property type="match status" value="1"/>
+		</dbReference>
+		<dbReference id="PS50082" key="119" type="PROSITE">
+			<property type="entry name" value="WD_REPEATS_2"/>
+			<property type="match status" value="FALSE_NEG"/>
+		</dbReference>
+		<dbReference id="PS50294" key="120" type="PROSITE">
+			<property type="entry name" value="WD_REPEATS_REGION"/>
+			<property type="match status" value="FALSE_NEG"/>
+		</dbReference>
+		<proteinExistence type="evidence at protein level"/>
+		<keyword id="KW-0025">Alternative splicing</keyword>
+		<keyword id="KW-0053">Apoptosis</keyword>
+		<keyword id="KW-0181">Complete proteome</keyword>
+		<keyword id="KW-0963">Cytoplasm</keyword>
+		<keyword id="KW-0206">Cytoskeleton</keyword>
+		<keyword id="KW-0472">Membrane</keyword>
+		<keyword id="KW-0496">Mitochondrion</keyword>
+		<keyword id="KW-1000">Mitochondrion outer membrane</keyword>
+		<keyword id="KW-0523">Neurodegeneration</keyword>
+		<keyword id="KW-0621">Polymorphism</keyword>
+		<keyword id="KW-1185">Reference proteome</keyword>
+		<keyword id="KW-0677">Repeat</keyword>
+		<keyword id="KW-0950">Spinocerebellar ataxia</keyword>
+		<keyword id="KW-0853">WD repeat</keyword>
+		<feature description="Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B beta isoform" id="PRO_0000071421" type="chain">
+			<location>
+				<begin position="1"/>
+				<end position="443"/>
+			</location>
+		</feature>
+		<feature description="WD 1" type="repeat">
+			<location>
+				<begin position="22"/>
+				<end position="61"/>
+			</location>
+		</feature>
+		<feature description="WD 2" type="repeat">
+			<location>
+				<begin position="87"/>
+				<end position="128"/>
+			</location>
+		</feature>
+		<feature description="WD 3" type="repeat">
+			<location>
+				<begin position="171"/>
+				<end position="209"/>
+			</location>
+		</feature>
+		<feature description="WD 4" type="repeat">
+			<location>
+				<begin position="220"/>
+				<end position="260"/>
+			</location>
+		</feature>
+		<feature description="WD 5" type="repeat">
+			<location>
+				<begin position="279"/>
+				<end position="317"/>
+			</location>
+		</feature>
+		<feature description="WD 6" type="repeat">
+			<location>
+				<begin position="334"/>
+				<end position="375"/>
+			</location>
+		</feature>
+		<feature description="WD 7" type="repeat">
+			<location>
+				<begin position="410"/>
+				<end position="442"/>
+			</location>
+		</feature>
+		<feature description="In isoform 2." id="VSP_037976" type="splice variant">
+			<original>MEEDIDTRKINNSFLRDHSYA</original>
+			<variation>MKCFSRYLPYIFRPPNTILSSSCH</variation>
+			<location>
+				<begin position="1"/>
+				<end position="21"/>
+			</location>
+		</feature>
+		<feature description="In isoform 3." id="VSP_037977" type="splice variant">
+			<original>MEEDIDTRKINNSFLRDHSYA</original>
+			<variation>MIPGIGTLTQDTLWCFSQVKGTIEIGT</variation>
+			<location>
+				<begin position="1"/>
+				<end position="21"/>
+			</location>
+		</feature>
+		<feature description="In isoform 4." id="VSP_037978" type="splice variant">
+			<original>M</original>
+			<variation>MVLQPSERHYRDWNHRRLGPWCSPTGSPAPLSCETGCGEGSWILVCRLLVPTQVSLLSM</variation>
+			<location>
+				<position position="1"/>
+			</location>
+		</feature>
+		<feature description="In isoform 5." id="VSP_037979" type="splice variant">
+			<original>M</original>
+			<variation>MLLSLPALHLQTSEHHPFFQLPHRRLGPWCSPTGSPAPLSCETGCGEGSWILVCRLLVPTQVSLLSM</variation>
+			<location>
+				<position position="1"/>
+			</location>
+		</feature>
+		<feature description="In dbSNP:rs11547494." id="VAR_051738" type="sequence variant">
+			<original>G</original>
+			<variation>V</variation>
+			<location>
+				<position position="36"/>
+			</location>
+		</feature>
+		<feature description="In Ref. 2; BAH11838." ref="6" type="sequence conflict">
+			<original>T</original>
+			<variation>A</variation>
+			<location>
+				<position position="22"/>
+			</location>
+		</feature>
+		<feature description="In Ref. 2; BAH12040." ref="6" type="sequence conflict">
+			<original>S</original>
+			<variation>F</variation>
+			<location>
+				<position position="109"/>
+			</location>
+		</feature>
+		<feature description="In Ref. 6; BI490027." ref="16" type="sequence conflict">
+			<original>T</original>
+			<variation>S</variation>
+			<location>
+				<position position="163"/>
+			</location>
+		</feature>
+		<feature description="In Ref. 2; BAF82406." ref="6" type="sequence conflict">
+			<original>P</original>
+			<variation>S</variation>
+			<location>
+				<position position="164"/>
+			</location>
+		</feature>
+		<feature description="In Ref. 2; BAH12040." ref="6" type="sequence conflict">
+			<original>S</original>
+			<variation>R</variation>
+			<location>
+				<position position="292"/>
+			</location>
+		</feature>
+		<evidence key="1" type="ECO:0000006">
+			<source>
+				<dbReference id="10581021" type="PubMed"/>
+			</source>
+		</evidence>
+		<sequence checksum="C383C834B2852B8F" length="443" mass="51710" modified="1993-04-01" version="1">
+MEEDIDTRKINNSFLRDHSYATEADIISTVEFNHTGELLATGDKGGRVVIFQREQESKNQ
+VHRRGEYNVYSTFQSHEPEFDYLKSLEIEEKINKIRWLPQQNAAYFLLSTNDKTVKLWKV
+SERDKRPEGYNLKDEEGRLRDPATITTLRVPVLRPMDLMVEATPRRVFANAHTYHINSIS
+VNSDYETYMSADDLRINLWNFEITNQSFNIVDIKPANMEELTEVITAAEFHPHHCNTFVY
+SSSKGTIRLCDMRASALCDRHTKFFEEPEDPSNRSFFSEIISSISDVKFSHSGRYIMTRD
+YLTVKVWDLNMENRPIETYQVHDYLRSKLCSLYENDCIFDKFECVWNGSDSVIMTGSYNN
+FFRMFDRNTKRDVTLEASRENSKPRAILKPRKVCVGGKRRKDEISVDSLDFSKKILHTAW
+HPSENIIAVAATNNLYIFQDKVN
+</sequence>
+	</entry>
+	<entry created="2004-12-07" dataset="Swiss-Prot" modified="2011-11-16" version="32">
+		<accession>O57224</accession>
+		<name>A12_VACCA</name>
+		<protein>
+			<recommendedName>
+				<fullName>25 kDa core protein A12L</fullName>
+			</recommendedName>
+			<component>
+				<recommendedName>
+					<fullName>17 kDa core protein A12L</fullName>
+					<shortName>17K</shortName>
+				</recommendedName>
+			</component>
+		</protein>
+		<gene>
+			<name type="ordered locus">MVA123L</name>
+			<name type="ordered locus">ACAM3000_MVA_123</name>
+			<name type="ORF">A12L</name>
+		</gene>
+		<organism>
+			<name type="scientific">Vaccinia virus (strain Ankara)</name>
+			<name type="common">VACV</name>
+			<dbReference id="126794" key="1" type="NCBI Taxonomy"/>
+			<lineage>
+				<taxon>Viruses</taxon>
+				<taxon>dsDNA viruses, no RNA stage</taxon>
+				<taxon>Poxviridae</taxon>
+				<taxon>Chordopoxvirinae</taxon>
+				<taxon>Orthopoxvirus</taxon>
+				<taxon>Vaccinia virus</taxon>
+			</lineage>
+		</organism>
+		<organismHost>
+			<name type="scientific">Homo sapiens</name>
+			<name type="common">Human</name>
+			<dbReference id="9606" key="2" type="NCBI Taxonomy"/>
+			<lineage>
+				<taxon>Eukaryota</taxon>
+				<taxon>Metazoa</taxon>
+				<taxon>Chordata</taxon>
+				<taxon>Craniata</taxon>
+				<taxon>Vertebrata</taxon>
+				<taxon>Euteleostomi</taxon>
+				<taxon>Mammalia</taxon>
+				<taxon>Eutheria</taxon>
+				<taxon>Euarchontoglires</taxon>
+				<taxon>Primates</taxon>
+				<taxon>Haplorrhini</taxon>
+				<taxon>Catarrhini</taxon>
+				<taxon>Hominidae</taxon>
+				<taxon>Homo</taxon>
+			</lineage>
+		</organismHost>
+		<reference key="3">
+			<citation date="1998" first="365" last="396" name="Virology" type="journal article" volume="244">
+				<title>The complete genomic sequence of the modified vaccinia Ankara strain: comparison with other orthopoxviruses.</title>
+				<authorList>
+					<person name="Antoine G."/>
+					<person name="Scheiflinger F."/>
+					<person name="Dorner F."/>
+					<person name="Falkner F.G."/>
+				</authorList>
+				<dbReference id="98263813" key="4" type="MEDLINE"/>
+				<dbReference id="9601507" key="5" type="PubMed"/>
+				<dbReference id="10.1006/viro.1998.9123" key="6" type="DOI"/>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+		</reference>
+		<reference key="7">
+			<citation date="2004-04" db="EMBL/GenBank/DDBJ databases" type="submission">
+				<authorList>
+					<person name="Esposito J.J."/>
+					<person name="Frace M."/>
+					<person name="Sammons S.A."/>
+					<person name="Olsen-Rasmussen M.S."/>
+					<person name="Osborne J."/>
+					<person name="Khristova M."/>
+					<person name="Wohlhueter R.M."/>
+				</authorList>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+			<source>
+				<strain>Isolate Acambis 3000</strain>
+			</source>
+		</reference>
+		<comment type="function">
+			<text>Component of the virion core that undergoes proteolytic processing during the immature virion (IV) to mature virion (MV) transition. Essential for the formation of a structurally normal core (By similarity).</text>
+		</comment>
+		<comment type="subcellular location">
+			<molecule>25 kDa core protein A12L</molecule>
+			<subcellularLocation>
+				<location status="by similarity">Virion</location>
+			</subcellularLocation>
+			<text>Localizes to the virion core (By similarity).</text>
+		</comment>
+		<comment type="subcellular location">
+			<molecule>17 kDa core protein A12L</molecule>
+			<subcellularLocation>
+				<location status="by similarity">Virion</location>
+			</subcellularLocation>
+			<text>Localizes to the virion core (By similarity).</text>
+		</comment>
+		<comment type="induction">
+			<text>Expressed in the late phase of the viral replicative cycle.</text>
+		</comment>
+		<comment type="PTM">
+			<text>The 25-kDa precursor is cleaved to a mature protein of 17 kDa during virion maturation. Further proteolytic processing is supposed to occur since five more A12L-derived products have been observed (By similarity).</text>
+		</comment>
+		<comment type="similarity">
+			<text>Belongs to the chordopoxvirinae A12 family.</text>
+		</comment>
+		<dbReference id="U94848" key="8" type="EMBL">
+			<property type="protein sequence ID" value="AAB96463.1"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="AY603355" key="9" type="EMBL">
+			<property type="protein sequence ID" value="AAT10521.1"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="T37399" key="10" type="PIR">
+			<property type="entry name" value="T37399"/>
+		</dbReference>
+		<dbReference id="GO:0019012" key="11" type="GO">
+			<property type="term" value="C:virion"/>
+			<property type="evidence" value="IEA:UniProtKB-SubCell"/>
+		</dbReference>
+		<dbReference id="IPR006744" key="12" type="InterPro">
+			<property type="entry name" value="Poxvirus_A12"/>
+		</dbReference>
+		<dbReference id="PF04651" key="13" type="Pfam">
+			<property type="entry name" value="Pox_A12"/>
+			<property type="match status" value="1"/>
+		</dbReference>
+		<proteinExistence type="evidence at transcript level"/>
+		<keyword id="KW-0426">Late protein</keyword>
+		<keyword id="KW-0946">Virion</keyword>
+		<feature description="25 kDa core protein A12L" id="PRO_0000099235" type="chain">
+			<location>
+				<begin position="1"/>
+				<end position="187"/>
+			</location>
+		</feature>
+		<feature description="17 kDa core protein A12L" id="PRO_0000413913" status="by similarity" type="chain">
+			<location>
+				<begin position="1"/>
+				<end position="56"/>
+			</location>
+		</feature>
+		<feature description="Ser/Thr-rich" type="compositionally biased region">
+			<location>
+				<begin position="74"/>
+				<end position="84"/>
+			</location>
+		</feature>
+		<feature description="Cleavage; by I7 protease" status="by similarity" type="site">
+			<location>
+				<begin position="56"/>
+				<end position="57"/>
+			</location>
+		</feature>
+		<sequence checksum="51050C749A397465" length="187" mass="20002" modified="1998-06-01" version="1">
+MADKKNLAVRSSYDDYIETVNKITPQLKNLLAQIGGDAAVKGGNNNLNSQTDVTAGACDT
+KCITCKPKSKSSSSSTSTSKGSKNTSGAPRRRTTVTTTSYNAMDGQIVQAVTNAGKIVYG
+TVRDGQLEVRGMVGEINHDLLGIDSVNAGKKKPSKKMPTNKKINMSSGMRRQEQINPDDC
+CLDMGMY
+</sequence>
+	</entry>
+	<entry created="1991-02-01" dataset="Swiss-Prot" modified="2011-11-16" version="42">
+		<accession>P20989</accession>
+		<name>A12_VACCC</name>
+		<protein>
+			<recommendedName>
+				<fullName>25 kDa core protein A12L</fullName>
+			</recommendedName>
+			<component>
+				<recommendedName>
+					<fullName>17 kDa core protein A12L</fullName>
+					<shortName>17K</shortName>
+				</recommendedName>
+			</component>
+		</protein>
+		<gene>
+			<name type="ORF">A12L</name>
+		</gene>
+		<organism>
+			<name type="scientific">Vaccinia virus (strain Copenhagen)</name>
+			<name type="common">VACV</name>
+			<dbReference id="10249" key="1" type="NCBI Taxonomy"/>
+			<lineage>
+				<taxon>Viruses</taxon>
+				<taxon>dsDNA viruses, no RNA stage</taxon>
+				<taxon>Poxviridae</taxon>
+				<taxon>Chordopoxvirinae</taxon>
+				<taxon>Orthopoxvirus</taxon>
+				<taxon>Vaccinia virus</taxon>
+			</lineage>
+		</organism>
+		<organismHost>
+			<name type="scientific">Homo sapiens</name>
+			<name type="common">Human</name>
+			<dbReference id="9606" key="2" type="NCBI Taxonomy"/>
+			<lineage>
+				<taxon>Eukaryota</taxon>
+				<taxon>Metazoa</taxon>
+				<taxon>Chordata</taxon>
+				<taxon>Craniata</taxon>
+				<taxon>Vertebrata</taxon>
+				<taxon>Euteleostomi</taxon>
+				<taxon>Mammalia</taxon>
+				<taxon>Eutheria</taxon>
+				<taxon>Euarchontoglires</taxon>
+				<taxon>Primates</taxon>
+				<taxon>Haplorrhini</taxon>
+				<taxon>Catarrhini</taxon>
+				<taxon>Hominidae</taxon>
+				<taxon>Homo</taxon>
+			</lineage>
+		</organismHost>
+		<reference key="3">
+			<citation date="1990" first="247" last="266" name="Virology" type="journal article" volume="179">
+				<title>The complete DNA sequence of vaccinia virus.</title>
+				<authorList>
+					<person name="Goebel S.J."/>
+					<person name="Johnson G.P."/>
+					<person name="Perkus M.E."/>
+					<person name="Davis S.W."/>
+					<person name="Winslow J.P."/>
+					<person name="Paoletti E."/>
+				</authorList>
+				<dbReference id="91021027" key="4" type="MEDLINE"/>
+				<dbReference id="2219722" key="5" type="PubMed"/>
+				<dbReference id="10.1016/0042-6822(90)90294-2" key="6" type="DOI"/>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+		</reference>
+		<reference key="7">
+			<citation date="1990" first="517" last="563" name="Virology" type="journal article" volume="179">
+				<title>Appendix to 'The complete DNA sequence of vaccinia virus'.</title>
+				<authorList>
+					<person name="Goebel S.J."/>
+					<person name="Johnson G.P."/>
+					<person name="Perkus M.E."/>
+					<person name="Davis S.W."/>
+					<person name="Winslow J.P."/>
+					<person name="Paoletti E."/>
+				</authorList>
+			</citation>
+			<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+		</reference>
+		<comment type="function">
+			<text>Component of the virion core that undergoes proteolytic processing during the immature virion (IV) to mature virion (MV) transition. Essential for the formation of a structurally normal core (By similarity).</text>
+		</comment>
+		<comment type="subcellular location">
+			<molecule>25 kDa core protein A12L</molecule>
+			<subcellularLocation>
+				<location status="by similarity">Virion</location>
+			</subcellularLocation>
+			<text>Localizes to the virion core (By similarity).</text>
+		</comment>
+		<comment type="subcellular location">
+			<molecule>17 kDa core protein A12L</molecule>
+			<subcellularLocation>
+				<location status="by similarity">Virion</location>
+			</subcellularLocation>
+			<text>Localizes to the virion core (By similarity).</text>
+		</comment>
+		<comment type="induction">
+			<text>Expressed in the late phase of the viral replicative cycle.</text>
+		</comment>
+		<comment type="PTM">
+			<text>The 25-kDa precursor is cleaved to a mature protein of 17 kDa during virion maturation. Further proteolytic processing is supposed to occur since five more A12L-derived products have been observed (By similarity).</text>
+		</comment>
+		<comment type="similarity">
+			<text>Belongs to the chordopoxvirinae A12 family.</text>
+		</comment>
+		<dbReference id="M35027" key="8" type="EMBL">
+			<property type="protein sequence ID" value="AAA48134.1"/>
+			<property type="molecule type" value="Genomic_DNA"/>
+		</dbReference>
+		<dbReference id="E42518" key="9" type="PIR">
+			<property type="entry name" value="E42518"/>
+		</dbReference>
+		<dbReference id="DIP-2185N" key="10" type="DIP"/>
+		<dbReference id="MINT-131042" key="11" type="MINT"/>
+		<dbReference id="GO:0019012" key="12" type="GO">
+			<property type="term" value="C:virion"/>
+			<property type="evidence" value="IEA:UniProtKB-SubCell"/>
+		</dbReference>
+		<dbReference id="IPR006744" key="13" type="InterPro">
+			<property type="entry name" value="Poxvirus_A12"/>
+		</dbReference>
+		<dbReference id="PF04651" key="14" type="Pfam">
+			<property type="entry name" value="Pox_A12"/>
+			<property type="match status" value="1"/>
+		</dbReference>
+		<proteinExistence type="evidence at transcript level"/>
+		<keyword id="KW-0181">Complete proteome</keyword>
+		<keyword id="KW-0426">Late protein</keyword>
+		<keyword id="KW-0946">Virion</keyword>
+		<feature description="25 kDa core protein A12L" id="PRO_0000099236" type="chain">
+			<location>
+				<begin position="1"/>
+				<end position="192"/>
+			</location>
+		</feature>
+		<feature description="17 kDa core protein A12L" id="PRO_0000413914" status="by similarity" type="chain">
+			<location>
+				<begin position="1"/>
+				<end position="56"/>
+			</location>
+		</feature>
+		<feature description="Ser/Thr-rich" type="compositionally biased region">
+			<location>
+				<begin position="74"/>
+				<end position="84"/>
+			</location>
+		</feature>
+		<feature description="Cleavage; by I7 protease" status="by similarity" type="site">
+			<location>
+				<begin position="56"/>
+				<end position="57"/>
+			</location>
+		</feature>
+		<sequence checksum="C5966FD4B1217A86" length="192" mass="20519" modified="1991-02-01" version="1">
+MADKKNLAVRSSYDDYIETVNKITPQLKNLLAQIGGDAAVKGGNNNLNSQTDVTAGACDT
+KSKSSKCITCKPKSKSSSSSTSTSKGSKNTSGAPRRRTTVTTTSYNAMDGQIVQAVTNAG
+KIVYGTVRDGQLEVRGMVGEINHDLLGIDSVNAGKKKPSKKMPTNKKINMSSGMRRQEQI
+NPDDCCLDMGMY
+</sequence>
+	</entry>
+	<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>
